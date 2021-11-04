@@ -1,0 +1,12 @@
+__pycache__
+*.py[cod]
+*.npz
+*.png
+*.c
+*.so
+*.html
+.cache
+.ropeproject
+.mypy_cache
+build
+*.egg-info
