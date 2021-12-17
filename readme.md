@@ -4,7 +4,7 @@
 2. `mkdir PROJECTNAME; cd PROJECTNAME`
 3. `conda create -c conda-forge -n PROJECTNAME numpy scipy numba fipy scipy pyamg libgcc pandas tqdm plotnine`
 4. `conda activate PROJECTNAME`
-5. `git clone git@github.com:nadellinsilico/simbiofilm.git`
+5. `git clone git@github.com:simbiofilm/simbiofilm.git`
 6. `pip install -e simbiofilm`
 7. `cp simbiofilm/scripts/plotlib.py .`
 8. `python simbiofilm/examples/simple.py`
